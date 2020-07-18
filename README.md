@@ -11,3 +11,5 @@ The data will be stored in database which can also be deleted later.
 
 The encrypted images will be saved on enc_result folder
 The decrypted images will be saved on dec_result folder
+
+The project requires active internet connection in order to send the email to the user.
