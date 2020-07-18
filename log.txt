@@ -1,0 +1,2 @@
+encryption is done successfully. 
+ kr vector: 44 kc vector : 81
