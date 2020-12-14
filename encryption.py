@@ -54,8 +54,8 @@ def xor_operation(image, k):
     return image
     
 def send_email(email, kr, kc, itr):
-    email_adderss = 'imgencryption@gmail.com'
-    email_password = 'minor123'
+    email_adderss = 'abc@gmail.com'
+    email_password = 'password'
 
     with smtplib.SMTP('smtp.gmail.com', 587) as smtp:
         smtp.ehlo()
